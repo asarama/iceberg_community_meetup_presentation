@@ -13,3 +13,4 @@ Iceberg catalogs overview
 7. [Apache Iceberg's REST - ApacheCon Slides](https://www.apachecon.com/acna2022/slides/02_Redai_Apache_Icebergs_REST.pdf)
 8. [Apache Iceberg CatalogUtil.java](https://github.com/apache/iceberg/blob/main/core/src/main/java/org/apache/iceberg/CatalogUtil.java)
 9. Hannah Ritchie, Edouard Mathieu, Max Roser and Esteban Ortiz-Ospina (2023) - "Internet" Published online at [OurWorldInData.org](http://ourworldindata.org/). Retrieved from: [https://ourworldindata.org/internet](https://ourworldindata.org/internet) [Online Resource]
+10. [Map Reduce in Hadoop](https://www.geeksforgeeks.org/map-reduce-in-hadoop/)
